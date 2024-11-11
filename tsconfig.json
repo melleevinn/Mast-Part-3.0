@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+, "HomeScreen.tsx", "MenuScreen.tsx", "Menucontext.tsx", "CourseFilterScreen.tsx", "CheckoutScreen.tsx", "App.tsx", "AddMenuItemScreen.tsx", "CartContext.tsx"  ]
+}
